@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="", 24 News Malayalam
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762412209/ei/UfILaba2Gterlu8Pv9HukQ8/ip/135.232.201.83/id/1wECsnGZcfc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5TVbzwkqGbAtE4v9U4tj8E2GoI7P6tiA6QECB5Zb-7aJAuzXi1H-8fSt1ZYtTDzNxX81ygUHrWZ/spc/6b0G_KgLKl35GtH5ZsV7bwC1IrxNtjtNqn2OQWdUKlsxOH1mCdf4PizTNzB-_zr0EZw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANkZvobDncP584DEUSxPnuvZQcC8Y-n9mjrbquX_ncdHAiBsM2VE98-eVvHFfodszhvkHBVOE4glO_-_YFsnnFJx8A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2023/01/logo-texto-gris.png" tvg-id="", Canal 7 Mendoza
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
